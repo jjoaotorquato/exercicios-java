@@ -1,18 +1,14 @@
-## Getting Started
+# Exercícios em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repositório com 50 exercícios em Java divididos por níveis de dificuldade.
 
-## Folder Structure
+## 🟢 Nível 1 – Fácil
+- Operações básicas, entrada/saída, condicionais, laços
 
-The workspace contains two folders by default, where:
+## 🟡 Nível 2 – Intermediário
+- Vetores, métodos, recursão, manipulação de strings e menus
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🔴 Nível 3 – Difícil
+- POO, arquivos, estrutura de dados, projetos pequenos
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+> Este repositório será atualizado conforme eu for resolvendo os exercícios.
