@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 public class ex5_ParOuImpar {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Informe numero: ");
